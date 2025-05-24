@@ -64,7 +64,9 @@ Error Logging: Python Logging Module
 # 🎯 Use Cases
 
 📌 Automated Image Analysis – Extract insights from images for research & reports.
+
 📌 Bulk Content Digitization – Convert images into structured data for storage.
+
 📌 AI-Powered Image Interpretation – Identify objects, descriptions, and contextual data.
 
 This project enables AI-powered automated image processing, offering a seamless transformation of images into structured insights! 🚀
